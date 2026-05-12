@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from models.review import ReviewRequest
-from services.openai_service import review_code
+from services.Groq import review_code
 
 router = APIRouter(prefix="/api/review", tags=["review"])
 
