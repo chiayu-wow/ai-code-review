@@ -5,9 +5,6 @@ An AI-powered code review tool built with FastAPI and Groq (LLaMA 3).
 ## Tech Stack
 - Python + FastAPI
 - Groq API (llama-3.1-8b-instant)
-- Pydantic
-- Docker (coming soon)
-- React (coming soon)
 
 ## Project Structure
 
